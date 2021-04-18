@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'The Artisan';
+  src: url('Font/The_Artisan/the\ artisan.otf') format('truetype'),
+    url('Font/The_Artisan/the_artisan-webfont.woff2') format('woff2'),
+    url('Font/The_Artisan/the_artisan-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Autography';
+  src: url('Font/Autography/Autography.otf') format('truetype'),
+    url('Font/Autography/autography-webfont.woff2') format('woff2'),
+    url('Font/Autography/autography-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
