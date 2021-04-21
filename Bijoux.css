@@ -207,7 +207,7 @@ footer .info img {
     }
 
     .fond_blanc {
-        max-width: 400px;
+        width: 400px;
         
     }
 
@@ -243,5 +243,7 @@ footer .info img {
         background-image: url('Image/Haut_res.jpg'); /* on ajoute cette image dans le header  */  
         
     }
+
+  
 
 }
