@@ -276,6 +276,46 @@ footer .info img {
         margin-top: 10px; 
     }
 
+}
+
+   /*-----------------------------------------------------*/
+
+@media only screen and (max-width: 414px){
+    .fond_blanc {
+        max-width: 414px;  
+    }
+    .wrapper {
+        max-width: 414px; /* la largeur du contenu qui se trouve dedant fera 800px */  
+    }
+}
+
+
+@media only screen and (max-width: 393px){
+    .fond_blanc {
+        max-width: 393px;   
+    }
+    .wrapper {
+        max-width: 393px; /* la largeur du contenu qui se trouve dedant fera 800px */    
+    }
+}
+
+
+@media only screen and (max-width: 360px) {
+     .fond_blanc {
+        max-width: 360px;   
+    }
+    .wrapper {
+        max-width: 360px; /* la largeur du contenu qui se trouve dedant fera 800px */   
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .fond_blanc {
+        max-width: 320px;   
+    }
+    .wrapper {
+        max-width: 320px; /* la largeur du contenu qui se trouve dedant fera 800px */   
+    }
 
 
 }
