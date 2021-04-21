@@ -245,12 +245,12 @@ footer .info img {
     }
 
     .fond_blanc {
-        max-width: 400px;
+        max-width: 360px;
         
     }
 
     .wrapper {
-        width: 400px; /* la largeur du contenu qui se trouve dedant fera 800px */
+        max-width: 360px; /* la largeur du contenu qui se trouve dedant fera 800px */
         
     }
 
