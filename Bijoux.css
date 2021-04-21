@@ -238,6 +238,10 @@ footer .info img {
         margin-top: 10px; 
     }
 
-
+    header {
+        
+        background-image: url('Image/Haut_res.jpg'); /* on ajoute cette image dans le header  */  
+        
+    }
 
 }
