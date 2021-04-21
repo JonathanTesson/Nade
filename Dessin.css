@@ -209,7 +209,7 @@ footer .info .icon-background {
     align-items: center;
 
     height: 50px;
-    width: 100px;
+    width: 60px;
     margin-bottom: 15px;
 
     background-color: #e7e6e6;
@@ -228,3 +228,46 @@ footer .info img {
 }
 
 /* -----------------le bas FIN----------------- */
+
+@media only screen and (max-width: 768px) {
+
+    body {
+        background: #8baf71;
+        /*margin-bottom: 0px;*/
+    }
+
+    .fond_blanc {
+        max-width: 400px;
+        
+    }
+
+    .wrapper {
+        width: 400px; /* la largeur du contenu qui se trouve dedant fera 800px */
+        
+    }
+
+    footer .info .icon-background {
+        width: 50px;
+          
+    }
+
+    footer {
+   font-size: 22px;
+
+    }
+
+    div.separateur {   
+        width: 100px;
+    }
+
+    .pagner {
+        height: 15px;
+        width: 15px;
+        float: right;
+        margin-right: 20px;
+        margin-top: 10px; 
+    }
+
+
+
+}

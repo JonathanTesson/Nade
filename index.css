@@ -220,7 +220,7 @@ footer .info .icon-background {
     border: 1px solid transparent;
 
     height: 50px;
-    width: 100px;
+    width: 60px;
     margin-bottom: 15px;
 
     
@@ -241,10 +241,12 @@ footer .info img {
 
     body {
         background: #5c5857;
+        /*margin-bottom: 0px;*/
     }
 
     .fond_blanc {
-        max-width: 400px;  
+        max-width: 400px;
+        
     }
 
     .wrapper {
